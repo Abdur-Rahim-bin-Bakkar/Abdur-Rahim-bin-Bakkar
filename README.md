@@ -70,7 +70,7 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 ## 🌐 Connect With Me  
 - 📫 How to reach me **webdesignrahim4061@gmail.com**
 <p align="center">
-  <a href="www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar" target="_blank">
+  <a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
