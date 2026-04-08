@@ -29,7 +29,16 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 - 🔭 I’m currently working on a React-based App Listing project  
 - 🌱 I’m exploring Next.js and advanced React concepts  
 - 💡 I love building clean UI and smooth user experience  
-- ⚡ I believe consistency is the key to success  
+- ⚡ I believe consistency is the key to success
+- <p align="center">
+  <a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:webdesignrahim4061@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
