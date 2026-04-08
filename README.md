@@ -36,12 +36,12 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 ## 🚀 Skills  
 <h3 align="center">Languages and Tools:</h3>
 
-<!-- 🔹 Main Skills (clean icons) -->
+<!-- 🔹 Main Skills -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
-<!-- 🔹 Extra Tools (no duplicate) -->
+<!-- 🔹 Extra Tools -->
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
@@ -52,7 +52,17 @@ I am a passionate frontend developer focused on building clean, responsive, and 
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
-  <a href="
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
@@ -76,6 +86,15 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahim-bin-Bakkar&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-bin-Bakkar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-bin-Bakkar&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+
 
 
 
