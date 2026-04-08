@@ -56,35 +56,28 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 
 ---
 
+
 ## 🌐 Connect With Me  
 - 📫 How to reach me **webdesignrahim4061@gmail.com**
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://tiktok.com/@YOUR_LINK" target="_blank">
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png"/>
-  </a>
-  <a href="https://snapchat.com/add/YOUR_LINK" target="_blank">
-    <img src="https://img.icons8.com/color/48/snapchat.png"/>
-  </a>
+
+  
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-bin-Bakkar&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahim-bin-Bakkar&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-bin-Bakkar&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
