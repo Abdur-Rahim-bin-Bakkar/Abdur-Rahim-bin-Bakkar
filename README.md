@@ -3,7 +3,8 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-bin-Bakkar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img width="1456" height="720" alt="Gemini_Generated_Image_ycp1jvycp1jvycp1" src="https://github.com/user-attachments/assets/0d75ebba-fe71-4174-aa93-78c1f3e658ee" />
+  
 </p>
 
 ---
