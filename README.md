@@ -42,34 +42,43 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 
 ---
 
-## 🚀 Skills  
-<h3 align="center">Languages and Tools:</h3>
+## 🚀 Skills
 
-<!-- 🔹 Main Skills -->
+<h3 align="center">Languages & Tools</h3>
+
+<!-- Main Skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,npm,postman,netlify" />
 </p>
 
-<!-- 🔹 Extra Tools -->
+<!-- Extra Skills -->
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+
+  <!-- DaisyUI -->
+  <a href="https://daisyui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- HeroUI -->
+  <a href="https://www.heroui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+
+  <!-- Better Auth -->
+  <a href="https://www.better-auth.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Better%20Auth-18181B?style=for-the-badge&logo=shield&logoColor=white" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- Stripe -->
+  <a href="https://stripe.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
+
 </p>
 
 
