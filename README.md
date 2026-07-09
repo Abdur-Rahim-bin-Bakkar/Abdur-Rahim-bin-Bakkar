@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-<img width="1456" height="720" alt="Gemini_Generated_Image_ycp1jvycp1jvycp1" src="https://github.com/user-attachments/assets/0d75ebba-fe71-4174-aa93-78c1f3e658ee" />
+<img width="2512" height="416" alt="Gemini_Generated_Image_ogd6jxogd6jxogd6" src="https://github.com/user-attachments/assets/cef66ab0-9033-4c50-9ce2-5fa4d1fd4ab4" />
   
 </p>
 
