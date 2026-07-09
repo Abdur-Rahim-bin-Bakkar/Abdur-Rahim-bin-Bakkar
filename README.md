@@ -38,7 +38,10 @@ Hi 👋 I'm Abdur Rahim
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### 🚀 Passionate Frontend Developer from Bangladesh
+### 🚀 Passionate MERN Stack Developer from Bangladesh
+My name is Abdur Rahim bin Bakkar.
+I am a student of Computer Science and Technology.
+
 
 I love building beautiful, scalable and responsive web applications using modern technologies.
 
