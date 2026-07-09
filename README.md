@@ -521,40 +521,6 @@ Better Auth       █████████░░░░░ 65%
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:webdesignrahim4061@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-# 📫 Contact Information
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | **webdesignrahim4061@gmail.com** |
-| 💼 LinkedIn | **linkedin.com/in/fswd-abdur-rahim-bin-bakkar** |
-| 🌍 Portfolio | **portfolio-eight-pi-mc123cjc5o.vercel.app** |
-| 💻 GitHub | **github.com/Abdur-Rahim-bin-Bakkar** |
-
----
 
 # 🤝 Let's Collaborate
 
@@ -623,7 +589,7 @@ It motivates me to build more awesome open-source projects.
 
 # 💡 Fun Facts
 
-- ☕ Coffee + Music = Better Code
+- ☕ Coffee  = Better Code
 - 🌙 I enjoy coding late at night
 - 🚀 I love building real-world products
 - 📚 Learning something new every day
@@ -642,37 +608,9 @@ It motivates me to build more awesome open-source projects.
 
 ---
 
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="mailto:webdesignrahim4061@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Abdur-Rahim-bin-Bakkar/Abdur-Rahim-bin-Bakkar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -703,46 +641,3 @@ It motivates me to build more awesome open-source projects.
 </p>
 
 ---
-
-<p align="center">
-
-Made with ❤️ by
-
-<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
-
-<b>Abdur Rahim</b>
-
-</a>
-
-</p>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Abdur-Rahim-bin-Bakkar
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
