@@ -204,25 +204,11 @@ Better Auth       █████████░░░░░ 65%
 
 ---
 
-# ⚡ Motto
-
-> **"Consistency beats motivation."**
-
----
 
 <!-- ========================================================= -->
 <!--                     GITHUB ANALYTICS                      -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-bin-Bakkar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-bin-Bakkar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
 
 ---
 
@@ -234,15 +220,7 @@ Better Auth       █████████░░░░░ 65%
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
@@ -294,25 +272,8 @@ Better Auth       █████████░░░░░ 65%
 
 </p>
 
----
 
-# 💻 Coding Quote
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Abdur-Rahim-bin-Bakkar/Abdur-Rahim-bin-Bakkar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -355,21 +316,6 @@ Better Auth       █████████░░░░░ 65%
 
 ---
 
-# 📅 2026 Goals
-
-- ✅ Master TypeScript
-- ✅ Master Next.js
-- ✅ Build Production-Level MERN Apps
-- ✅ Learn PostgreSQL
-- ✅ Learn SQL
-- ✅ Learn Prisma ORM
-- ✅ Learn Docker
-- ✅ Learn Redis
-- ✅ Learn GraphQL
-- ✅ Learn AWS
-- ✅ Contribute to Open Source
-- ✅ Solve 500+ DSA Problems
-- ✅ Become a Senior Full Stack Developer
 
 ---
 
@@ -386,35 +332,7 @@ Better Auth       █████████░░░░░ 65%
 <!--                  FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
 
-# 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app/">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=BodySync-Client&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=DriveFleet-Client&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=HireLoop-Client&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-> **⚠️ গুরুত্বপূর্ণ:** `Portfolio`, `BodySync-Client`, `DriveFleet-Client`, `HireLoop-Client`-এর জায়গায় তোমার GitHub repository-এর **ঠিক নাম** বসাবে। Repository নাম ভুল হলে কার্ড দেখাবে না।
-
----
 
 # 💼 Tech Highlights
 
@@ -607,20 +525,6 @@ It motivates me to build more awesome open-source projects.
 </p>
 
 ---
-
-
----
-
-
----
-
-# 💬 Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
 
 ---
 
