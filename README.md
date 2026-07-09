@@ -1,137 +1,748 @@
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Abdur-Rahim-bin-Bakkar)
-<img width="2032" height="528" alt="rahimg" src="https://github.com/user-attachments/assets/b5512a86-c3bc-478d-9fa0-977a10f7c240" />
-
-
-
-
-
-
-
-
-
-
-
-<!-- 🔥 Banner / Intro -->
-<h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h3 align="center">💻 MERN Stack Developer | React & JavaScript Enthusiast 🚀</h3>
+<!-- ========================================================= -->
+<!--                      PROFILE VIEWS                         -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Frontend+Developer;React+Lover;JavaScript+Enthusiast;Always+Learning+New+Things🚀" />
+  <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-bin-Bakkar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+<!-- ========================================================= -->
+<!--                         BANNER                            -->
+<!-- ========================================================= -->
 
-I am a passionate frontend developer focused on building clean, responsive, and scalable web applications. I enjoy turning ideas into real-world projects and continuously improving my skills. 🚀  
-
-- 🔭 I’m currently working on a React-based App Listing project  
-- 🌱 I’m exploring Next.js and advanced React concepts  
-- 💡 I love building clean UI and smooth user experience  
-- ⚡ I believe consistency is the key to success
-- <p align="center">
-  <a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:webdesignrahim4061@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
----
-
-## 🚀 Skills
-
-<h3 align="center">Languages & Tools</h3>
-
-<!-- Main Skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,npm,postman,netlify,better-auth" />
-</p>
-
-<!-- Extra Skills -->
-<p align="center">
-
-  <!-- DaisyUI -->
-  <a href="https://daisyui.com/" target="_blank">
-    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  </a>
-
-  <!-- HeroUI -->
-  <a href="https://www.heroui.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-
-  <!-- Better Auth -->
-  <a href="https://www.better-auth.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Better%20Auth-18181B?style=for-the-badge&logo=shield&logoColor=white" />
-  </a>
-
-  <!-- JWT -->
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  </a>
-
-  <!-- Stripe -->
-  <a href="https://stripe.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  </a>
-
-</p>
-
-
----
-
-
-## 🌐 Connect With Me  
-- 📫 How to reach me **webdesignrahim4061@gmail.com**
-<p align="center">
-  <a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  
+<img src="https://github.com/user-attachments/assets/b5512a86-c3bc-478d-9fa0-977a10f7c240"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ========================================================= -->
+<!--                       INTRODUCTION                        -->
+<!-- ========================================================= -->
 
+<h1 align="center">
+Hi 👋 I'm Abdur Rahim
+</h1>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahim-bin-Bakkar&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-bin-Bakkar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-bin-Bakkar&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
-
-
-
----
-
-
-
-
----
-
-## ⚡ Fun Fact  
+<h3 align="center">
+💻 MERN Stack Developer | React & Next.js Developer | JavaScript Enthusiast 🚀
+</h3>
 
 <p align="center">
-  💡 I love turning ideas into real-world projects & learning something new every day!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Developer;React+Developer;Next.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Things+🚀;Building+Clean+UI+%26+Scalable+Applications" />
+
 </p>
 
 ---
 
+<!-- ========================================================= -->
+<!--                         ABOUT ME                          -->
+<!-- ========================================================= -->
+
+# 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 🚀 Passionate Frontend Developer from Bangladesh
+
+I love building beautiful, scalable and responsive web applications using modern technologies.
+
+I enjoy turning ideas into real-world products while continuously learning new technologies.
+
+### 💼 Current Focus
+
+- 🔭 Building Full Stack MERN Applications
+
+- 🌱 Learning Advanced React & Next.js
+
+- 🎯 Improving Problem Solving Skills
+
+- 💡 Building Beautiful UI/UX
+
+- ⚡ Exploring Modern Web Technologies
+
+- ❤️ Love Clean Code & Best Practices
+
+- 🚀 Goal: Become a Senior Full Stack Developer
+
+---
+
+## 📫 Contact Me
+
 <p align="center">
-  ⭐️ From <a href="https://github.com/Abdur-Rahim-bin-Bakkar">Abdur-Rahim-bin-Bakkar</a>
+
+<a href="mailto:webdesignrahim4061@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
 
+---
+
+# 🚀 Tech Stack
+
+<h3 align="center">
+Languages & Tools
+</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,vscode,vercel,npm,postman"/>
+
+</p>
+
+---
+
+## 🛠 Frameworks & Libraries
+
+<p align="center">
+
+<a href="https://tailwindcss.com">
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</a>
+
+<a href="https://daisyui.com">
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge"/>
+</a>
+
+<a href="https://www.heroui.com">
+<img src="https://img.shields.io/badge/HeroUI-black?style=for-the-badge"/>
+</a>
+
+<a href="https://www.better-auth.com/">
+<img src="https://img.shields.io/badge/Better%20Auth-18181B?style=for-the-badge"/>
+</a>
+
+<a href="https://jwt.io">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+</a>
+
+<a href="https://stripe.com">
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts"/>
+
+</p>
+
+### 📚 I'm currently exploring
+
+- Advanced React
+- Next.js App Router
+- Authentication
+- REST API
+- Performance Optimization
+- Clean Architecture
+
+---
+
+# 🎯 Learning Next
+
+### After mastering my current stack, I plan to learn:
+
+| Technology | Status |
+|------------|--------|
+| PostgreSQL | 🔜 |
+| SQL | 🔜 |
+| Prisma ORM | 🔜 |
+| Docker | 🔜 |
+| Redis | 🔜 |
+| GraphQL | 🔜 |
+| AWS | 🔜 |
+| CI/CD | 🔜 |
+| Linux | 🔜 |
+| Kubernetes | 🔜 |
+
+---
+
+# 💻 Current Tech Journey
+
+```text
+HTML/CSS          ██████████████ 100%
+
+JavaScript        █████████████░ 95%
+
+TypeScript        ███████████░░░ 75%
+
+React             █████████████░ 95%
+
+Next.js           ██████████░░░░ 80%
+
+Tailwind CSS      ██████████████ 100%
+
+Node.js           ███████████░░░ 80%
+
+Express.js        ███████████░░░ 80%
+
+MongoDB           ███████████░░░ 80%
+
+Better Auth       █████████░░░░░ 65%
+```
+
+---
+
+# ⚡ Motto
+
+> **"Consistency beats motivation."**
+
+---
+
+<!-- ========================================================= -->
+<!--                     GITHUB ANALYTICS                      -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-bin-Bakkar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-bin-Bakkar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abdur-Rahim-bin-Bakkar&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahim-bin-Bakkar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdur-Rahim-bin-Bakkar&theme=tokyonight&utcOffset=6"/>
+
+</p>
+
+---
+
+# 🚀 Developer Metrics
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Abdur-Rahim-bin-Bakkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 💻 Coding Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abdur-Rahim-bin-Bakkar/Abdur-Rahim-bin-Bakkar/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📈 Visitor Insights
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdur-Rahim-bin-Bakkar&theme=github_dark"/>
+
+</p>
+
+---
+
+# ⚙️ Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+🎨 Figma Design
+   │
+   ▼
+⚛ React / Next.js
+   │
+   ▼
+🎨 Tailwind CSS
+   │
+   ▼
+🔐 Better Auth
+   │
+   ▼
+🌐 REST API
+   │
+   ▼
+🍃 MongoDB
+   │
+   ▼
+🚀 Deploy (Vercel)
+```
+
+---
+
+# 📅 2026 Goals
+
+- ✅ Master TypeScript
+- ✅ Master Next.js
+- ✅ Build Production-Level MERN Apps
+- ✅ Learn PostgreSQL
+- ✅ Learn SQL
+- ✅ Learn Prisma ORM
+- ✅ Learn Docker
+- ✅ Learn Redis
+- ✅ Learn GraphQL
+- ✅ Learn AWS
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ DSA Problems
+- ✅ Become a Senior Full Stack Developer
+
+---
+
+# 💪 Keep Growing
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app/">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=BodySync-Client&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=DriveFleet-Client&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahim-bin-Bakkar&repo=HireLoop-Client&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+> **⚠️ গুরুত্বপূর্ণ:** `Portfolio`, `BodySync-Client`, `DriveFleet-Client`, `HireLoop-Client`-এর জায়গায় তোমার GitHub repository-এর **ঠিক নাম** বসাবে। Repository নাম ভুল হলে কার্ড দেখাবে না।
+
+---
+
+# 💼 Tech Highlights
+
+<div align="center">
+
+| Frontend | Backend | Database | Authentication | Deployment |
+|----------|----------|----------|----------------|------------|
+| React.js | Node.js | MongoDB | Better Auth | Vercel |
+| Next.js | Express.js | Mongoose | JWT | Netlify |
+| TypeScript | REST API | | OAuth | GitHub Pages |
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+- 🥇 MERN Stack Developer
+- ⚛ React & Next.js Developer
+- 💻 Passionate Frontend Engineer
+- 🎨 Responsive UI Designer
+- 🚀 Clean Code Enthusiast
+- 📚 Lifelong Learner
+- 🌍 Open Source Learner
+- 🔥 Building Real-world Projects
+
+---
+
+# 📚 Currently Working On
+
+```text
+🚀 Full Stack MERN Applications
+
+████████████████████░░ 90%
+```
+
+### Current Focus
+
+- ⚛ Advanced React
+- 🚀 Next.js App Router
+- 🔐 Better Auth
+- 🎨 UI/UX Improvement
+- 📦 REST APIs
+- 💻 TypeScript
+- 🧠 Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+✔ HTML & CSS
+
+██████████████████████
+
+✔ JavaScript
+
+██████████████████████
+
+✔ React
+
+██████████████████████
+
+✔ Tailwind CSS
+
+██████████████████████
+
+🔄 Next.js
+
+█████████████████░░░░░
+
+🔄 TypeScript
+
+████████████████░░░░░░
+
+🔜 PostgreSQL
+
+████░░░░░░░░░░░░░░░░░░
+
+🔜 SQL
+
+███░░░░░░░░░░░░░░░░░░░
+
+🔜 Prisma ORM
+
+██░░░░░░░░░░░░░░░░░░░░
+
+🔜 Docker
+
+█░░░░░░░░░░░░░░░░░░░░░
+
+🔜 Redis
+
+█░░░░░░░░░░░░░░░░░░░░░
+
+🔜 GraphQL
+
+█░░░░░░░░░░░░░░░░░░░░░
+
+🔜 AWS
+
+█░░░░░░░░░░░░░░░░░░░░░
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:webdesignrahim4061@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact Information
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | **webdesignrahim4061@gmail.com** |
+| 💼 LinkedIn | **linkedin.com/in/fswd-abdur-rahim-bin-bakkar** |
+| 🌍 Portfolio | **portfolio-eight-pi-mc123cjc5o.vercel.app** |
+| 💻 GitHub | **github.com/Abdur-Rahim-bin-Bakkar** |
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- 🚀 Open Source Projects
+- 💻 MERN Stack Applications
+- 🌐 Frontend Development
+- ⚛ React & Next.js Projects
+- 🎨 UI/UX Design
+- 📚 Learning New Technologies
+
+If you have an exciting idea, feel free to connect with me!
+
+---
+
+# 💡 Favorite Quote
+
+> **"The expert in anything was once a beginner."**
+
+---
+
+<!-- ========================================================= -->
+<!--                    SUPPORT MY WORK                        -->
+<!-- ========================================================= -->
+
+# ❤️ Support My Work
+
+<p align="center">
+
+If you like my work, consider giving my repositories a ⭐.
+
+It motivates me to build more awesome open-source projects.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar?tab=repositories">
+<img src="https://img.shields.io/badge/⭐ Star%20My%20Repositories-yellow?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💖 Open Source
+
+```text
+███████████████████████
+
+❤️ Learning
+❤️ Sharing
+❤️ Building
+❤️ Growing
+❤️ Open Source
+```
+
+---
+
+# 🎯 My Coding Philosophy
+
+> Write code that is **simple**, **clean**, **maintainable**, and **scalable**.
+
+---
+
+# 💡 Fun Facts
+
+- ☕ Coffee + Music = Better Code
+- 🌙 I enjoy coding late at night
+- 🚀 I love building real-world products
+- 📚 Learning something new every day
+- 💙 React is my favorite frontend library
+- ⚡ Consistency beats motivation
+
+---
+
+# 🧠 Daily Reminder
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Never+Stop+Learning...;Code.+Build.+Repeat.;Dream+Big+%F0%9F%9A%80;Consistency+Creates+Success."/>
+
+</p>
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+<a href="mailto:webdesignrahim4061@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fswd-abdur-rahim-bin-bakkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-eight-pi-mc123cjc5o.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abdur-Rahim-bin-Bakkar/Abdur-Rahim-bin-Bakkar/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💬 Random Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👨‍💻 Thanks for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=140&section=footer"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Happy Coding!
+
+</p>
+
+---
+
+<p align="center">
+
+Made with ❤️ by
+
+<a href="https://github.com/Abdur-Rahim-bin-Bakkar">
+
+<b>Abdur Rahim</b>
+
+</a>
+
+</p>
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Abdur-Rahim-bin-Bakkar
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
