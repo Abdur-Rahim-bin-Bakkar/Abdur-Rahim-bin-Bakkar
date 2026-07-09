@@ -48,7 +48,7 @@ I am a passionate frontend developer focused on building clean, responsive, and 
 
 <!-- Main Skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,npm,postman,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,npm,postman,netlify,better-auth" />
 </p>
 
 <!-- Extra Skills -->
