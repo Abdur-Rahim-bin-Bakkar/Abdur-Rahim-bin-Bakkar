@@ -91,26 +91,14 @@ I enjoy turning ideas into real-world products while continuously learning new t
 
 # 🚀 Tech Stack
 
-<h3 align="center">
-Languages & Tools
-</h3>
+## 🎨 Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,vscode,vercel,npm,postman"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
 </p>
 
----
-
-## 🛠 MORE
-
+**Also:**  
 <p align="center">
-
-<a href="https://tailwindcss.com">
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</a>
-
 <a href="https://daisyui.com">
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge"/>
 </a>
@@ -118,7 +106,19 @@ Languages & Tools
 <a href="https://www.heroui.com">
 <img src="https://img.shields.io/badge/HeroUI-black?style=for-the-badge"/>
 </a>
+</p>
 
+---
+
+## ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+**Authentication & Payments**
+
+<p align="center">
 <a href="https://www.better-auth.com/">
 <img src="https://img.shields.io/badge/Better%20Auth-18181B?style=for-the-badge"/>
 </a>
@@ -130,7 +130,30 @@ Languages & Tools
 <a href="https://stripe.com">
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 </a>
+</p>
 
+---
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+---
+
+## 🚀 Deployment & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel"/>
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,figma"/>
 </p>
 
 ---
@@ -138,9 +161,7 @@ Languages & Tools
 # 🌱 Currently Learning
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nextjs,ts"/>
-
 </p>
 
 ### 📚 I'm currently exploring
@@ -154,8 +175,6 @@ Languages & Tools
 
 ---
 
-
----
 
 # 💻 Current Tech Journey
 
