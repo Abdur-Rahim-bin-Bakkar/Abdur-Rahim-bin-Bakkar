@@ -108,7 +108,7 @@ Languages & Tools
 
 ---
 
-## 🛠 Frameworks & Libraries
+## 🛠 MORE
 
 <p align="center">
 
@@ -159,22 +159,6 @@ Languages & Tools
 
 ---
 
-# 🎯 Learning Next
-
-### After mastering my current stack, I plan to learn:
-
-| Technology | Status |
-|------------|--------|
-| PostgreSQL | 🔜 |
-| SQL | 🔜 |
-| Prisma ORM | 🔜 |
-| Docker | 🔜 |
-| Redis | 🔜 |
-| GraphQL | 🔜 |
-| AWS | 🔜 |
-| CI/CD | 🔜 |
-| Linux | 🔜 |
-| Kubernetes | 🔜 |
 
 ---
 
